@@ -8,8 +8,10 @@ Sou desenvolvedor com foco em **IoT, automação e sistemas embarcados**, atuand
 Tenho experiência com:
 - Integração de sensores e atuadores  
 - Comunicação via **MQTT**  
-- Controle e automação de dispositivos  
-- Desenvolvimento de projetos voltados para aplicações reais  
+- Conectividade sem fio: **Wi-Fi** e **Bluetooth**  
+- Controle, monitoramento e automação de dispositivos  
+- Desenvolvimento de projetos aplicados a cenários reais
+ 
 
 Estou sempre buscando evoluir tecnicamente e aplicar boas práticas em meus projetos.
 
