@@ -24,8 +24,8 @@ Minha *stack* de desenvolvimento é focada em performance e eficiência para amb
 | **Microcontroladores** | `ESP32`, `Arduino` (AVR/SAMD), `Raspberry Pi` |
 | **Comunicação** | `MQTT`, `HTTP/REST`, `WebSockets`, `BLE`, `LoRa` |
 | **Protocolos** | `I2C`, `SPI`, `UART`, `Modbus` |
-| **Ferramentas** | `PlatformIO`, `VS Code`, `Git`, `Linux` |
-| **Cloud/Backend** | `Node-RED`, `AWS IoT` (Conceitos), `Bancos de Dados NoSQL` |
+| **Ferramentas** | `PlatformIO`, `VS Code`, `Git`|
+| **Cloud/Backend** | `Node-RED` |
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40"/>
